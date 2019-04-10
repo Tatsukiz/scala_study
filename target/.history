@@ -1,0 +1,21 @@
+paste
+run
+exit
+run
+0.1*0.1
+console
+runMain Factorial
+console
+runMain Factorial
+runMain Facorization
+runMain Factorization
+console
+runMain Factorization
+compile
+runMain Factorization
+runMain PrintFactorization
+abcd
+console
+runMain SimpleSearch
+"red,blue,yellow,blue".indexOf("blue")
+console
